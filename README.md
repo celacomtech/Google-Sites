@@ -2,6 +2,7 @@
 Introduction to Google Sites
 #Overview
 
+[https://sites.google.com/site/colonialismgec7/](https://sites.google.com/site/colonialismgec7/)
 
 #References and Resources
 
