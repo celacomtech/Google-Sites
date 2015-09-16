@@ -6,7 +6,7 @@ I bring a creative and logical approach to problem solving. Primarily developing
 
 #Introduction to Google Sites
 ##Overview
-
+I will highlight fundamental web design principles.  Groups will be responsible for entering research findingd into a logical format best suited for web presentation.  The intenede audience for this ptoject is incoming 7th graders.
 ###Demo
 [https://sites.google.com/site/colonialismgec7/](https://sites.google.com/site/colonialismgec7/)
 
