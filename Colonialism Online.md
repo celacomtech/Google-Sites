@@ -13,29 +13,4 @@ international trade and the rise of the middle class.
 on the continents of Asia, Africa, and the Americas.
 
 
-
-ELA Standards: 
-
-RL 9.2 Analyze the impact of the author’s choice of words, word phrases, and conventions on meaning and tone. (use Info. texts and literary
-excerpts) 
-
-RI 4.1 Read grade-level text with purpose and understanding. (Reflection piece on purpose and understanding)
-
-RI 5.1 Cite multiple examples of textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text. 
-(Infor. texts/close reading) 
-
-RI 8.1 Determine figurative, connotative, and technical meanings of words and phrases used in a text; analyze the impact of specific words 
-or phrases on meaning and tone. (on infor. texts) 
-
-W.2.1 C c. use definition, classification, comparison/contrast, and cause/effect structures to organize ideas, concepts, and information; 
-(def. of colonialism/other key vocab & comparing differing ways that European...7-1.5(SS)..make it compare to ?) 
-
-W.2.1 F. develop the topic with relevant facts, definitions, concrete details, quotations, or other information and examples; (website) 
-W.2.1 d. use credible sources; (website and journal) 
-
-W. 5.2 
-a. a comma to separate coordinate adjectives; and (paragraph reflection piece)
-b. a comma after introductory subordinate clauses. (paragraph reflection piece) 
-
-C.2.2 Analyze and evaluate the credibility of information and accuracy of findings. (website and journal) 
-
+C.2.2 Analyze and evaluate the credibility of information and accuracy of findings. (website and journal)
