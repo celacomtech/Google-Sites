@@ -1,5 +1,0 @@
-## Big Idea
-Political and Economic Influences of the trade between...
-- Asia
-- Africa
-- Americas
