@@ -2,11 +2,11 @@
 ## Senior Programmer
 @ [Manual Woodworkers & Weavers, Inc.](http://mwwondemand.com)
 
-I bring a creative and logical approach to problem solving. Primarily developing web applications within various business structures utilizing full  .Net development stack.  My dedication to succeeding has taught me how to effectively produce results, manage my time, and automate complex business processes.  I have a fear of public speaking but enjoy sharing my knowledge as well as experiences with annoyne looking to learn about technology, young or old.
+I bring a creative and logical approach to problem solving. Primarily developing web applications within various business structures utilizing full .Net development stack.  My dedication to succeeding has taught me how to effectively produce results, manage my time, and automate complex business processes.  I have a fear of public speaking but enjoy sharing my knowledge as well as experiences with anyone looking to learn about technology, young or old.
 
 #Introduction to Google Sites
 ##Overview
-I will highlight fundamental web design principles.  Groups will be responsible for organizing and entering research findings into a logical format best suited for web presentation keeping inline with web authoring best practices.  _Note:  intendde audience for this ptoject will be incoming 7th graders._
+I will highlight fundamental web design principles.  Groups will be responsible for organizing and entering research findings into a logical format best suited for web presentation keeping inline with web authoring best practices.  _Note:  intended audience for this project will be incoming 7th graders.
 ###Demo
 [https://sites.google.com/site/colonialismgec7/](https://sites.google.com/site/colonialismgec7/)
 
