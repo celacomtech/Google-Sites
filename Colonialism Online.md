@@ -1,8 +1,10 @@
-## Big Idea
+## Big Idea - Objective
 Political and Economic Influences of the trade between...
 - Asia
 - Africa
 - Americas
+
+
 **7-1.1** 
 Compare the colonial claims and the expansion of European Powers through 1770.
 
@@ -15,6 +17,24 @@ Analyze the beginnings of capitalism and the ways that it was affected by mercan
 international trade and the rise of the middle class.	
 **7-1.5** Compare the differing ways that European nations developed political and economic influences, including trade and settlement patterns,
 on the continents of Asia, Africa, and the Americas.
-
-
 C.2.2 Analyze and evaluate the credibility of information and accuracy of findings. (website and journal)
+
+
+#**Brainstorm**
+- Audience
+- Wireframes
+- Phases
+
+# Design
+- Create
+- Select Template
+- Manage Site	
+- create Pages
+- Add Links
+
+# Test
+-Review Site
+ 
+
+
+
