@@ -19,3 +19,5 @@ I will highlight fundamental web design principles.  Groups will be responsible 
 [Google Sites Cheat Sheet](https://docs.google.com/file/d/0B_DxVisJfpw6UFM2ZENZNWRMa28/view)
 
 [Downloads](http://adobe.ly/1OYceBh)
+
+[Questions](https://sites.google.com/site/colonialismgec7/questions)
